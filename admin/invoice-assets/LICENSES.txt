@@ -1,0 +1,3 @@
+bg-id.jpg / bg-en.jpg : template desain invoice buatan pemilik (Blood Motion), dirender dari PDF desain; teks dinamis dikosongkan.
+fonts/Poppins-*.ttf   : Poppins (c) The Poppins Project Authors, SIL Open Font License 1.1 (subset Latin).
+fonts/LiberationSans-*: Liberation Sans (c) Red Hat, SIL Open Font License 1.1 (subset Latin).
